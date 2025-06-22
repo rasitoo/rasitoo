@@ -39,7 +39,7 @@
   <img width="50px" title="Linux" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" /> &nbsp;
   <img width="50px" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /> &nbsp;
   <img width="50px" title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> &nbsp;
-  <img width="50px" title="Swagger" src="https://images.seeklogo.com/logo-png/49/1/swagger-logo-png_seeklogo-491770.png" /> &nbsp;
+  <img width="50px" title="Swagger" src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" /> &nbsp;
   <img width="50px" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /> &nbsp;
   <img width="50px" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /> &nbsp;
   <img width="50px" title="Jetpack Compose" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" /> &nbsp;
