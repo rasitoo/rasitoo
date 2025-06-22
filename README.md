@@ -17,7 +17,7 @@
 
 <div align="center">
   <img width="50px" title="C" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /> &nbsp;
-  <img width="50px" title="C#" src="https://commons.wikimedia.org/wiki/File:Logo_C_sharp.svg#/media/File:Logo_C_sharp.svg" /> &nbsp;
+  <img width="50px" title="C#" src="https://saberpunto.com/wp-content/uploads/programacion-c-o-lenguaje-c-o-desarrollo-en-c.webp" /> &nbsp;
   <img width="50px" title="Java" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" /> &nbsp;
   <img width="50px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> &nbsp;
   <img width="50px" title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /> &nbsp;
@@ -31,7 +31,7 @@
 
 <div align="center">
   <img width="50px" title=".NET" src="https://saberpunto.com/wp-content/uploads/net.png" /> &nbsp;
-  <img width="50px" title="ASP.NET" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/ASP.NET_logo.svg" /> &nbsp;
+  <img width="50px" title="ASP.NET" src="https://miro.medium.com/v2/resize:fit:900/1*9S6fPkXpk0280FaaHMj8Lg.png" /> &nbsp;
   <img width="50px" title="FastAPI" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" /> &nbsp;
   <img width="50px" title="MongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg" /> &nbsp;
   <img width="50px" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /> &nbsp;
