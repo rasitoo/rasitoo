@@ -17,7 +17,7 @@
 
 <div align="center">
   <img width="50px" title="C" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /> &nbsp;
-  <img width="50px" title="C#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" /> &nbsp;
+  <img width="50px" title="C#" src="https://commons.wikimedia.org/wiki/File:Logo_C_sharp.svg#/media/File:Logo_C_sharp.svg" /> &nbsp;
   <img width="50px" title="Java" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" /> &nbsp;
   <img width="50px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> &nbsp;
   <img width="50px" title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /> &nbsp;
@@ -42,7 +42,7 @@
   <img width="50px" title="Swagger" src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" /> &nbsp;
   <img width="50px" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /> &nbsp;
   <img width="50px" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /> &nbsp;
-  <img width="50px" title="Jetpack Compose" src="https://developer.android.com/static/images/jetpack/compose-hero.svg" /> &nbsp;
+  <img width="50px" title="Jetpack Compose" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" /> &nbsp;
 </div>
 
 ---
