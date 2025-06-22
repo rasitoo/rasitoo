@@ -17,7 +17,7 @@
 
 <div align="center">
   <img width="50px" title="C" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /> &nbsp;
-  <img width="50px" title="C#" src="https://saberpunto.com/wp-content/uploads/programacion-c-o-lenguaje-c-o-desarrollo-en-c.webp" /> &nbsp;
+  <img width="50px" title="C#" src="https://raw.githubusercontent.com/gist/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" /> &nbsp;
   <img width="50px" title="Java" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" /> &nbsp;
   <img width="50px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> &nbsp;
   <img width="50px" title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /> &nbsp;
