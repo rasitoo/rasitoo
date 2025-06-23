@@ -58,11 +58,17 @@
 
 ---
 
-## 🔧 DevOps & Others
+## 🔧 Data Analysis
 <div align="center">
-  <img width="50px" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /> &nbsp;
-  <img width="50px" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /> &nbsp;
   <img width="50px" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /> &nbsp;
+  <img width="50px" title="Pandas" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" /> &nbsp;
+  <img width="50px" title="Matplotlib" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" /> &nbsp;
+  <img width="50px" title="Seaborn" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" /> &nbsp;
+  <img width="50px" title="Tensorflow" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" /> &nbsp;
+  <img width="50px" title="NumPy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" /> &nbsp;
+  <img width="50px" title="PyTorch" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" /> &nbsp;
+  <img width="50px" title="SQLModel" src="https://sqlmodel.tiangolo.com/img/logo-margin/logo-margin-vector.svg" /> &nbsp;
+
 </div>
 
 ---
