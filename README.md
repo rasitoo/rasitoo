@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rodrigo Tapiador</h1>
-<p align="center">📊 Data Analyst | 💻 Software Developer | 🚀 Tech Enthusiast preparing for 42 Piscine</p>
+<p align="center">📊 Data Analyst | 💻 Software Developer | 🚀 Tech Enthusiast preparing for Campus 42 Piscine</p>
 
 <p align="center">On my GitHub profile, you'll find a variety of projects and experiments I've developed throughout my academic and professional journey.</p>
 
