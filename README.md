@@ -13,8 +13,7 @@
 
 ---
 
-### 💻 Languages
-
+## 💻 Languages
 <div align="center">
   <img width="50px" title="C" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /> &nbsp;
   <img width="50px" title="C#" src="https://raw.githubusercontent.com/gist/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" /> &nbsp;
@@ -27,27 +26,43 @@
 
 ---
 
-### 🛠️ Technologies & Tools
-
+## 🧰 Frameworks & Libraries
 <div align="center">
   <img width="50px" title=".NET" src="https://saberpunto.com/wp-content/uploads/net.png" /> &nbsp;
   <img width="50px" title="ASP.NET" src="https://miro.medium.com/v2/resize:fit:900/1*9S6fPkXpk0280FaaHMj8Lg.png" /> &nbsp;
   <img width="50px" title="FastAPI" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" /> &nbsp;
-  <img width="50px" title="MongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg" /> &nbsp;
-  <img width="50px" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /> &nbsp;
-  <img width="50px" title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" /> &nbsp;
-  <img width="50px" title="Linux" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" /> &nbsp;
-  <img width="50px" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /> &nbsp;
-  <img width="50px" title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> &nbsp;
-  <img width="50px" title="Swagger" src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" /> &nbsp;
-  <img width="50px" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /> &nbsp;
-  <img width="50px" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /> &nbsp;
-  <img width="50px" title="Ocelot" src="https://raw.githubusercontent.com/ThreeMammals/Ocelot/refs/heads/assets/images/ocelot_logo.png" /> &nbsp;
+  <img width="50px" title="Jetpack Compose" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" /> &nbsp;
+</div>
+
+---
+
+## 🌐 APIs & Communication
+<div align="center">
   <img width="50px" title="SignalR" src="https://azure.microsoft.com/svghandler/signalr-service/?width=600&height=315" /> &nbsp;
+  <img width="50px" title="Ocelot" src="https://raw.githubusercontent.com/ThreeMammals/Ocelot/refs/heads/assets/images/ocelot_logo.png" /> &nbsp;
+  <img width="50px" title="Swagger" src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" /> &nbsp;
+  <img width="50px" title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> &nbsp;
+</div>
+
+---
+
+## 🛢️ Databases & Infrastructure
+<div align="center">
+  <img width="50px" title="MongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg" /> &nbsp;
   <img width="50px" title="PostgreSQL" src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" /> &nbsp;
   <img width="50px" title="Docker" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" /> &nbsp;
+  <img width="50px" title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" /> &nbsp;
+  <img width="50px" title="Linux" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" /> &nbsp;
   <img width="50px" title="VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" /> &nbsp;
-  <img width="50px" title="Jetpack Compose" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" /> &nbsp;
+</div>
+
+---
+
+## 🔧 DevOps & Others
+<div align="center">
+  <img width="50px" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /> &nbsp;
+  <img width="50px" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /> &nbsp;
+  <img width="50px" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /> &nbsp;
 </div>
 
 ---
