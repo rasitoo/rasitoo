@@ -68,6 +68,7 @@
   <img width="50px" title="NumPy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" /> &nbsp;
   <img width="50px" title="PyTorch" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" /> &nbsp;
   <img width="50px" title="SQLModel" src="https://sqlmodel.tiangolo.com/img/logo-margin/logo-margin-vector.svg" /> &nbsp;
+  <img width="50px" title="Langchain" src="https://www.infralovers.com/images/posts/ai-for-devops-engineers/langchain_logo.png" /> &nbsp;
 
 </div>
 
