@@ -42,6 +42,11 @@
   <img width="50px" title="Swagger" src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" /> &nbsp;
   <img width="50px" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /> &nbsp;
   <img width="50px" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /> &nbsp;
+  <img width="50px" title="Ocelot" src="https://raw.githubusercontent.com/ThreeMammals/Ocelot/refs/heads/assets/images/ocelot_logo.png" /> &nbsp;
+  <img width="50px" title="SignalR" src="https://azure.microsoft.com/svghandler/signalr-service/?width=600&height=315" /> &nbsp;
+  <img width="50px" title="PostgreSQL" src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" /> &nbsp;
+  <img width="50px" title="Docker" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" /> &nbsp;
+  <img width="50px" title="VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" /> &nbsp;
   <img width="50px" title="Jetpack Compose" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" /> &nbsp;
 </div>
 
