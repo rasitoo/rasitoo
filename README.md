@@ -104,7 +104,7 @@
 ### 🔗 Contact
 
 - 📫 Email: [05rotapi@gmail.com](mailto:05rotapi@gmail.com)  
-- 💼 LinkedIn: [Rodrigo Tapiador Cano](https://www.linkedin.com/in/rodrigo-tapiador-cano-162723258/)  
+- 💼 LinkedIn: [Rodrigo Tapiador Cano](https://www.linkedin.com/in/rodrigo-tapiador-cano/)  
 - 🗂️ GitHub: [rasitoo](https://github.com/rasitoo)
 
 ---
