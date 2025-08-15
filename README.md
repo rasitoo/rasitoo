@@ -110,3 +110,8 @@
 ---
 
 <h2 align="center">Thank you for visiting my profile! 🙌</h2>
+
+<!--https://github-readme-stats.vercel.app/api?username=rasitoo&count_private=true&show_icons=true&theme=merko-->
+<!--https://github-readme-stats.vercel.app/api/top-langs/?username=rasitoo&layout=compact&theme=merko&langs_count=10&hide=php,html)](https://github.com/anuraghazra/github-readme-stats-->
+<!--https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasitoo&theme=github_dark-->
+
