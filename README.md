@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rodrigo Tapiador</h1>
-<p align="center">📊 Data Analyst | 💻 Software Developer | 🚀 Tech Enthusiast preparing for Campus 42 Piscine</p>
+<p align="center">📊 Data Analyst | 💻 Software Developer | 🚀 Big Data studente</p>
 
 <p align="center">On my GitHub profile, you'll find a variety of projects and experiments I've developed throughout my academic and professional journey.</p>
 
@@ -9,7 +9,6 @@
 - 🎓 Computer Science & Data Analytics student
 - 👨‍💻 Currently working at Siemens Mobility as a Data Analyst
 - 🔍 Passionate about automation, clean code, Big Data, and learning new technologies
-- 🌊 Preparing for the 42 Summer Piscine (C, Bash, Vim, Linux...)
 
 ---
 
@@ -75,9 +74,6 @@
 ---
 
 ### 💼 Professional Experience
-
-- 👨🏻‍💻 **Campus 42**  
-  *Programming* — Programming Logic, C, Vim, Linux, Bash
   
 - 🏢 **Siemens Mobility**  
   *Data Analyst* — Power BI dashboards, VBA macros, Power Query optimization, Big Data architecture on AWS
